@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arun-o-day-11-7
+- 👋 Hi, I’m @arooon__n!
 - 👀 I’m interested in programming!
 - 🌱 I’m currently learning JavaScript & C++
 - 💞️ I’m looking to collaborate on Game dev projects!
